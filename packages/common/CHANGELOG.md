@@ -1,5 +1,11 @@
 # @powersync/common
 
+## 1.38.1
+
+### Patch Changes
+
+- 14f45a7: Update TriggerManager trackTableDiff API example
+
 ## 1.38.0
 
 ### Minor Changes
